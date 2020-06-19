@@ -1,0 +1,22 @@
+Package: GInSARCorW
+Type: Package
+Title: GACOS InSAR Correction Workflow
+Version: 0.15.4
+Date: 2020-06-16
+Author: Subhadip Datta
+Maintainer: Subhadip Datta <subhadipdatta007@gmail.com>
+Description: A workflow for correction of DInSAR atmospheric delay base on GACOS data and correction algorithms proposed by Chen Yu(2017). You can find atmospheric delay data here: <http://ceg-research.ncl.ac.uk/v2/gacos>. Please cite bellow papers and this package in your work.
+    Yu, C., N. T. Penna, and Z. Li (2017), Generation of real-time mode high-resolution water vapor fields from GPS observations, Journal of Geophysical Research: Atmospheres, 122, 2008–2025.
+    Yu, C., Li, Z., & Penna, N. T. (2017). Interferometric synthetic aperture radar atmospheric correction using a GPS-based iterative tropospheric decomposition model. Remote Sensing of Environment, 204(2018), 109-121.
+    Subhadip Datta (2020). GInSARCorW: GACOS InSAR Correction Workflow. R package version 0.15.2. <https://CRAN.R-project.org/package=GInSARCorW>.
+License: GPL-3
+URL:
+        <https://subhadipdatta007.wixsite.com/profile/post/ginsarcorw-gacos-insar-correction-workflow>
+Repository: CRAN
+Depends: raster, circular
+Imports: rgdal, rgeos, sp
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+NeedsCompilation: no
+Packaged: 2020-06-15 19:46:42 UTC; subha
