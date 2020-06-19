@@ -18,7 +18,7 @@ To install this package:
 
 install.packages("devtools")
 
-devtools::install_github("SubhadipDatta/GInSARCorW_0.15.4")
+devtools::install_github("SubhadipDatta/GInSARCorW")
 
 If faced any issues at the time of installation write in the issues section.
 
