@@ -12,16 +12,16 @@ Please cite this package also
 Subhadip Datta (2020). GInSARCorW: GACOS InSAR Correction Workflow. R package version 0.15.2. <https://CRAN.R-project.org/package=GInSARCorW>.
 
 
-Package will be available soon in CRAn also
+Package will be available soon in CRAN also.
 
 To install this package:
 
-install.packages("devtools")
+'''install.packages("devtools")
 
 Sys.setenv(R_REMOTES_NO_ERRORS_FROM_WARNINGS="true")
 
-devtools::install_github("SubhadipDatta/GInSARCorW")
+devtools::install_github("SubhadipDatta/GInSARCorW")'''
 
 If faced any issues at the time of installation write in the issues section.
 
-tutorial available soon.
+Tutorial available soon.
