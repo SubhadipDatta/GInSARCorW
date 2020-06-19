@@ -18,6 +18,8 @@ To install this package:
 
 install.packages("devtools")
 
+Sys.setenv(R_REMOTES_NO_ERRORS_FROM_WARNINGS="true")
+
 devtools::install_github("SubhadipDatta/GInSARCorW")
 
 If faced any issues at the time of installation write in the issues section.
