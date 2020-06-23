@@ -1,6 +1,6 @@
 #' InSAR Unw-Phase to displacement
 #' @author  Subhadip Datta
-#' @param unw_phase Un-wrapped InSAR tile/raster.After/before corrction.
+#' @param unw_phase Un-wrapped InSAR tile/raster.After/before correction.
 #' @param wavelength SAR wavelength in meter.
 #' @param unit output unit meter , centimeter or milimeter ("m", "cm" or "mm").
 #' @param inc_ang SAR incident angle (to get output in LOS direction, don't use if not needed).

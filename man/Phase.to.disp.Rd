@@ -7,7 +7,7 @@
 Phase.to.disp(unw_phase, wavelength = "in meter", unit = "m", inc_ang = 0)
 }
 \arguments{
-\item{unw_phase}{Un-wrapped InSAR tile/raster.After/before corrction.}
+\item{unw_phase}{Un-wrapped InSAR tile/raster.After/before correction.}
 
 \item{wavelength}{SAR wavelength in meter.}
 
